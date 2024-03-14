@@ -400,16 +400,16 @@ article h3{
 
 .paymants__hiden-bank-card-block{
     display: none;
-    height: 90%;
+    height: 80%;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: 10px;
+    margin-top: 28px;
 }
 
 .paymants__hiden-bank-card-block div:first-child{
     display: flex;
     flex-direction: column;
-    flex-basis: 50%;
+    flex-basis: 60%;
     justify-content: space-evenly;
 }
 
