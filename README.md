@@ -1,0 +1,1 @@
+#### The payment page of the online store
